@@ -20,17 +20,27 @@ Windows, Bash, Python, Django, JavaScript, Jest, React, HTML, CSS, VirtualDOM, G
 
 ### Сертификаты Нетологии
 
-- Основы языка программирования Python
-- Git - система контроля версий
-- Базы данных для python-разработчиков
-- Профессиональная работа с Python
-- Django: создание функциональных веб-приложений
-- HTML и CSS: основы веб-вёрстки
-- JavaScript: основы работы в браузере
-- JavaScript: углубленный курс веб-разработки
-- Расширенный инструментарий JavaScript в браузере
-- React: Библиотека №1 в современной фронтенд-разработке
-- Электронное свидетельство о прохождении курса по программе «Fullstack-разработчик на Python»
+- Основы языка программирования Python https://github.com/Dolinin2021/profile_description/blob/master/python_basic.pdf
+  
+- Git - система контроля версий https://github.com/Dolinin2021/profile_description/blob/master/git.pdf
+  
+- Базы данных для python-разработчиков https://github.com/Dolinin2021/profile_description/blob/master/sql.pdf
+  
+- Профессиональная работа с Python https://github.com/Dolinin2021/profile_description/blob/master/python_professional.pdf
+  
+- Django: создание функциональных веб-приложений https://github.com/Dolinin2021/profile_description/blob/master/django.pdf
+  
+- HTML и CSS: основы веб-вёрстки https://github.com/Dolinin2021/profile_description/blob/master/html_css.pdf
+  
+- JavaScript: основы работы в браузере https://github.com/Dolinin2021/profile_description/blob/master/js.pdf
+  
+- JavaScript: углубленный курс веб-разработки https://github.com/Dolinin2021/profile_description/blob/master/js_professional.pdf
+  
+- Расширенный инструментарий JavaScript в браузере https://github.com/Dolinin2021/profile_description/blob/master/js_advanced_toolkit.pdf
+  
+- React: Библиотека №1 в современной фронтенд-разработке https://github.com/Dolinin2021/profile_description/blob/master/react.pdf
+  
+- Электронное свидетельство о прохождении курса по программе «Fullstack-разработчик на Python» https://github.com/Dolinin2021/profile_description/blob/master/fpy.pdf
 
 ### Мои контакты
 programmistdolinin@mail.ru
