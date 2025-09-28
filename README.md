@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-Windows, Bash, Python, PyCharm, REST API, Django Rest Framework, Django Framework, JavaScript, Jest, React, Redux, HTML, CSS, VirtualDOM, DOM, HTTP, Git, GitHub, SQL, SQLAlchemy, PostgreSQL, API Вконтакте, API Яндекс, API GoogleDrive, UnitTest, ORM, Requests JSON.
+Windows, Bash, Python, PyCharm, REST API, Django Rest Framework, Django Framework, JavaScript, Jest, React, Redux, HTML, CSS, VirtualDOM, DOM, HTTP, Git, GitHub, SQL, SQLAlchemy, PostgreSQL, API Вконтакте, API Яндекс, API GoogleDrive, UnitTest, ORM, Requests, JSON.
 
 ### Мои проекты
 
